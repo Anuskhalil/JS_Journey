@@ -13,9 +13,11 @@
 // DataTypes
 // 1: string
 // 2: number
-// 3: Boolean
+// 3: Boolean true or False
 // 4: Integer
 // 6: Symbol
+// 7: Null
+// 8: Unefined
 
 // var myNum = 5;
 // console.log(myNum);
@@ -34,12 +36,13 @@
 // var myNumTwo = "5";
 // console.log(myNumOne +  parseInt(myNumTwo) );
 // console.log(myNumOne +  Number(myNumTwo) );
-// console.log(myNumOne +  +myNumTwo);
+// console.log(myNumOne + +myNumTwo);
 
 
 // var myName;  //Declaration
 // myName = "khalid" //Initialization
 // console.log(myName);
+
 
 
 // var msgTo = "Thanks for applying here"
